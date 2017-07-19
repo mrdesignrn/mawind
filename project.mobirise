@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MA Wind Solution",
-    "currentPage": "index.html",
+    "currentPage": "clientes.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -400,7 +400,7 @@
           },
           "text4": "<p><a href=\"mailto:support@mobirise.com\">marcos.andre@mawindsolution.com </a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categorias",
-          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">S</a>erviços<a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"clientes.html\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
+          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">Serviços</a></li><li><a class=\"text-white\" href=\"clientes.html\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(41, 105, 176);\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
           "text6": "<strong>Contato</strong><br>marcos.andre@mawindsolution.com <br>55 84 99873-4041<br>55 74 99806-7859 (whatsapp)<br><br><br><strong>Endereço</strong><br>Rua Nair Pentagna Guimarães, 300 <br>CEP: 31.741-545, Heleópolis <br>Belo Horizonte, Minas Gerais<br>",
           "form": {
             "title": "MESSAGE",
@@ -787,7 +787,7 @@
           },
           "text4": "<p><a href=\"mailto:support@mobirise.com\">marcos.andre@mawindsolution.com </a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categorias",
-          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">S</a>erviços<a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"clientes.html\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
+          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">Serviços</a></li><li><a class=\"text-white\" href=\"clientes.html\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(41, 105, 176);\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
           "text6": "<strong>Contato</strong><br>marcos.andre@mawindsolution.com <br>55 84 99873-4041<br>55 74 99806-7859 (whatsapp)<br><br><br><strong>Endereço</strong><br>Rua Nair Pentagna Guimarães, 300 <br>CEP: 31.741-545, Heleópolis <br>Belo Horizonte, Minas Gerais<br>",
           "form": {
             "title": "MESSAGE",
@@ -987,7 +987,7 @@
             }
           },
           "title": "Comissionamento de Turbinas",
-          "text": "Executar o pré-comissionamento, comissionamento, testes de performance e estabilização das turbinas corrigindo falhas nas WTGs instaladas.<br>Preencher check lists, relatórios e data books.<br>",
+          "text": "Executar o pré-comissionamento, comissionamento, testes de performance e estabilização das turbinas corrigindo falhas nas WTGs instaladas.&nbsp;Preencher check lists, relatórios e data books.<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1092,7 +1092,7 @@
               "size": 0
             }
           },
-          "title": "Operação e Manutanção",
+          "title": "Operação e Manutenção",
           "text": "Operação e Manutenção de Parques Eólicos com monitoramento 24 hs e oferecendo atendimento completo dia e noite em manutenções preventivas nos períodos de menor vento. Manutenções corretivas menores e maiores envolvendo principalmente trocas de pás, Gearbox e Gerador.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
@@ -1174,7 +1174,7 @@
           },
           "text4": "<p><a href=\"mailto:support@mobirise.com\">marcos.andre@mawindsolution.com </a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categorias",
-          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">S</a>erviços<a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"clientes.html\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
+          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">Serviços</a></li><li><a class=\"text-white\" href=\"clientes.html\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(41, 105, 176);\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
           "text6": "<strong>Contato</strong><br>marcos.andre@mawindsolution.com <br>55 84 99873-4041<br>55 74 99806-7859 (whatsapp)<br><br><br><strong>Endereço</strong><br>Rua Nair Pentagna Guimarães, 300 <br>CEP: 31.741-545, Heleópolis <br>Belo Horizonte, Minas Gerais<br>",
           "form": {
             "title": "MESSAGE",
@@ -1334,77 +1334,84 @@
             "paddingBottom": "3",
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/background-clientes-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here"
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here"
               }
             ],
             "spacing": "1",
@@ -1497,7 +1504,7 @@
           },
           "text4": "<p><a href=\"mailto:support@mobirise.com\">marcos.andre@mawindsolution.com </a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categorias",
-          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">S</a>erviços<a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"clientes.html\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
+          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">Serviços</a></li><li><a class=\"text-white\" href=\"clientes.html\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(41, 105, 176);\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
           "text6": "<strong>Contato</strong><br>marcos.andre@mawindsolution.com <br>55 84 99873-4041<br>55 74 99806-7859 (whatsapp)<br><br><br><strong>Endereço</strong><br>Rua Nair Pentagna Guimarães, 300 <br>CEP: 31.741-545, Heleópolis <br>Belo Horizonte, Minas Gerais<br>",
           "form": {
             "title": "MESSAGE",
@@ -1760,7 +1767,7 @@
           },
           "text4": "<p><a href=\"mailto:support@mobirise.com\">marcos.andre@mawindsolution.com </a><a href=\"mailto:support@mobirise.com\"></a></p>",
           "title1": "Categorias",
-          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">S</a>erviços<a class=\"text-white\" href=\"#\"></a></li><li><a class=\"text-white\" href=\"clientes.html\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
+          "text5": "<li><a href=\"quemsomos.html\" class=\"text-white\">Quem Somos</a></li><li><a href=\"servicos.html\" class=\"text-white\">Serviços</a></li><li><a class=\"text-white\" href=\"clientes.html\" style=\"font-size: 0.875rem; line-height: 1.8; background-color: rgb(41, 105, 176);\">Clientes</a></li><li><a class=\"text-white\" href=\"contatos.html\">Contatos</a></li><br>",
           "text6": "<strong>Contato</strong><br>marcos.andre@mawindsolution.com <br>55 84 99873-4041<br>55 74 99806-7859 (whatsapp)<br><br><br><strong>Endereço</strong><br>Rua Nair Pentagna Guimarães, 300 <br>CEP: 31.741-545, Heleópolis <br>Belo Horizonte, Minas Gerais<br>",
           "form": {
             "title": "MESSAGE",
