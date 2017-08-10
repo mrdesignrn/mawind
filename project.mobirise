@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "MA Wind Solution",
-    "currentPage": "index.html",
+    "currentPage": "contatos.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -984,7 +984,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<h3><b>C&amp;M</b></h3><p><br></p><p>A MA Wind Solution é uma empresa especializada em serviços de construção e montagem de parques eólicos. Possui equipe experiênte com atuação em todas as regiões com empreendimentos eólicos. Possuímos um modelo de negócio adaptado ao cenário brasileiro com foco em custo compatível. Garantimos excelência operacional em qualquer região do Brasil. Principais serviços:</p><p><br></p><p>• Inspeções de recebimento com emissão de Laudos e pareceres técnicos;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de Montagens;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de Comissionamento.</p><p><br></p><p>&nbsp;</p><h3>O&amp;M</h3><p><br></p><p>Com o número de parques em operação no BRASIL a MA Wind Solution também se especializou em serviços de operação e manutenção de parques eólicos. Sabemos que existem cerca de 25 Bilhões de reais serão investidos no setor em 2017. As maiores certificadoras de empreendimentos eólicos mostram que a maioria desses parques tiveram desempenho abaixo do desempenho esperado e isso aponta uma demanda acelerada por desenvolvimento de EXCELÊNCIA OPERACIONAL. Principais serviços:</p><p><br></p><p>• Inspeções de final de garantia com emissão de Laudos e pareceres técnicos;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de Manutenção Preventiva;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de Pequena Corretivas;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de  Grandes Corretivas.</p><p><br></p>"
+          "text": "<h3><b>C&amp;M</b></h3><p><br></p><p>A MA Wind Solution é uma empresa especializada em serviços de construção e montagem de parques eólicos. Possui uma equipe experiênte com atuação em todas as regiões com empreendimentos eólicos. Possuímos um modelo de negócio adaptado ao cenário brasileiro com foco em custo compatível. Garantimos excelência operacional em qualquer região do Brasil. Principais serviços:</p><p><br></p><p>• Inspeções de recebimento com emissão de Laudos e pareceres técnicos;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de Montagens;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de Comissionamento.</p><p><br></p><p>&nbsp;</p><h3>O&amp;M</h3><p><br></p><p>Com o número de parques em operação no BRASIL a MA Wind Solution também se especializou em serviços de operação e manutenção de parques eólicos. Sabemos que existem cerca de 25 Bilhões de reais que serão investidos no setor em 2017. As maiores certificadoras de empreendimentos eólicos mostram que a maioria desses parques tiveram um desempenho abaixo do esperado e isso aponta uma demanda acelerada por desenvolvimento de EXCELÊNCIA OPERACIONAL. Principais serviços:</p><p><br></p><p>• Inspeções de final de garantia com emissão de Laudos e pareceres técnicos;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de Manutenção Preventiva;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de Pequenos Corretivos;</p><p><br></p><p>• Supervisão/Fiscalização/Execução de  Grandes Corretivos.</p><p><br></p>"
         },
         {
           "_tags": [
@@ -1749,7 +1749,7 @@
             }
           },
           "text1": "<strong>Endereço</strong><br>Rua Nair Pentagna Guimarães, 300 <br>CEP: 31.741-545, Heleópolis <br>Belo Horizonte, Minas Gerais<br><br><br>\n<strong>Contatos</strong><br>\nmarcos.andre@mawindsolution.com <br>55 84 99873-4041<br>55 74 99806-7859 (whatsapp)<br>",
-          "text2": "<p><strong>Links</strong></p><p>• Linkein</p><p><strong><br></strong></p><p></p>"
+          "text2": "<p><strong>Links</strong></p><p>• <a href=\"https://www.linkedin.com/company/mawindsolution\" target=\"_blank\" class=\"text-black\">Linkedin</a></p><p><strong><br></strong></p><p></p>"
         },
         {
           "_tags": [
